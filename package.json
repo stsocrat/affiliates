@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/stsocrat/affiliates#readme",
   "dependencies": {
-    "core-js": "^3.1.4"
+    "core-js": "^3.1.4",
+    "netlify-cms": "^2.9.2"
   }
 }
